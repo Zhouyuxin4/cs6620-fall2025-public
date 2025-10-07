@@ -1,0 +1,21 @@
+# Git & GitHub
+.git
+.github
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Documentation or local files
+README.md
+
+# Docker build files
+.dockerignore
+Dockerfile
